@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#Código creado como ejemplo por Patricio Riffo para ámbitos de estudios.
+#Código creado como ejemplo por Patricio Riffo para ámbitos de estudios
 #Este código puede ser utilizado cuando se desea elegir de manera aleatoria a una persona para una determinada tarea o labor.
 #Cabe recordar que los números obtenidos son 'pseudoaleatoreos' ya que son obtenidos a traves de formulas matemáticas.
 
