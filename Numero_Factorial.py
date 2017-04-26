@@ -7,7 +7,7 @@ def factorial(n): #Funcion Recursiva que nos retorna el valor de un numero facto
     if n == 1:    #Si llegamos hasta 1, retornamos 1 para que se comience la multiplicacion
         return 1
     else:
-        return n * factorial(n-1)  #Retornamos el valor actual menos la unidad
+        return n * factorial(n-1)  #Retornamos el valor actual multiplicado por este menos la unidad
 
 
 def factorial_2(m):
