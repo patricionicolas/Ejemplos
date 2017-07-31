@@ -3,6 +3,7 @@
 #Este código puede ser utilizado cuando se desea elegir de manera aleatoria a una persona para una determinada tarea o labor.
 #Cabe recordar que los números obtenidos son 'pseudoaleatoreos' ya que son obtenidos a traves de formulas matemáticas.
 
+
 import random as ra #Importamos la librería  que nos permite utilizar números randomicos y la llamaremos "ra".
 
 nombres          = ["Juan","Rene","Carlos","Alex","Andres","Diego"] #Lista con nombres.
